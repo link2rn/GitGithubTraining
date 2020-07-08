@@ -1,0 +1,19 @@
+Hello everyone,
+It's me Santosh  Bhandari.
+
+First of all I will like to thank you Milan dai for guiding me in this Git and Github.
+Being a IT student, this traning count very valuable for me.
+ 
+I have learn many thing about git and github. 
+How to install git and maintaining new repo. Adding files, commit and push.
+Branching, forking repo, and cloning in local system.
+This 3 day training was very informative,beginners friendly and to the point for learner like us.
+GCA and Girls in Tech-Nepal has provide an wonderful platform for students learning in this hard skills training.
+So a big thank you for organizing this event.
+
+With regards,
+
+Santosh Bhandari,
+Github link:https://github.com/Hackerboy-2000SB/GitGithubTraining
+email: bhandarisantosh757@gmail.com
+
