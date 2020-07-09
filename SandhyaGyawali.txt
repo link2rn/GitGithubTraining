@@ -1,7 +1,14 @@
 ##  Name = Sandhya Gyawali
 # Email = sandhyagyawali37@gmail.com
 
-I had a great learning session of 3 days, on the topic "Git and Github Training" that was provided by Genese Cloud Academy. Mr. Milan Thapa was an excellent mentor. He guided us with full determination and patience. I am an IT student and I had expected a lot from this session. As expected, I learned new topics inside Git and Github and grabbed many ideas. I want to thank to the whole team of Genese Cloud Academy  for such a wonderful session. I want to salute to your efforts. Although during pandemic, you gave us your valuable time for conducting sessions like this. I hope you will provide beautiful trainings like these in upcoming future too. Thank you !
+I had a great learning session of 3 days, on the topic "Git and Github Training" that was provided by Genese Cloud Academy.
+Mr. Milan Thapa was an excellent mentor. He guided us with full determination and patience. 
+I am an IT student and I had expected a lot from this session. 
+As expected, I learned new topics inside Git and Github and grabbed many ideas. 
+I want to thank to the whole team of Genese Cloud Academy  for such a wonderful session.
+I want to salute to your efforts.
+Although during pandemic, you gave us your valuable time for conducting sessions like this.
+I hope you will provide beautiful trainings like these in upcoming future too. Thank you !
 
 
 
