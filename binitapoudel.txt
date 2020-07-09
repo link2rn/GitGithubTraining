@@ -1,0 +1,10 @@
+Hello Everyone.I'm Binita Poudel
+Address:Chitwan
+Email:binitapoudelnp@gmail.com
+The 3 days learning experience went amazing.
+ This was a completely new topic to me however I got to learn a lot about this topic. 
+I'm very much grateful to Milan sir and to GCA and Girls In Tech,Nepal. 
+I had a lot of expectations during this session and it happened as I expected.
+However it would have been better if the session would lasts for some more days.
+I think there are a lot of things still which we are unaware about regarding git and github.
+So,I wish next session would lasts for some more days giving us a detailed information regarding that topic.
