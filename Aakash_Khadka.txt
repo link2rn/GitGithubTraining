@@ -1,0 +1,8 @@
+I had used git before to store files but could not figure out how to control the versions of a project and I stored same project as multiple repository.
+This session has helped me to experiment with features of git such as branching, fork etc. Now I can use version control to help me do projects.
+All I want to suggest is that GCA could teach git with sample projects implementation.
+
+Regards,
+Aakash Khadka
+(aakash7khadka@gmail.com)
+linkedin:https://www.linkedin.com/in/aakash-khadka-675b4a158/
