@@ -1,5 +1,6 @@
-##  Name = Sandhya Gyawali
-# Email = sandhyagyawali37@gmail.com
+Name = Sandhya Gyawali
+Email = sandhyagyawali37@gmail.com
+
 
 I had a great learning session of 3 days, on the topic "Git and Github Training" that was provided by Genese Cloud Academy.
 Mr. Milan Thapa was an excellent mentor. He guided us with full determination and patience. 
