@@ -1,9 +1,0 @@
-During these past three days, this training has helped solidify my Git knowledge from the ground up.
-I have been using Git and GitHub for sometime now and with this training, I was hoping that I get to delve into topics I didn't know before, which I did.
-To name a few, the git history visualization tool and instructions on traversing git history were especially helpful.
-
-Overall, I enjoyed these three days and hope to be a part of future training sessions on the pipeline of GCA.
-Again, a big thanks to GCA and Girls in Tech.
-
-Roshan Adhikari
-iroshanadh@gmail.com
