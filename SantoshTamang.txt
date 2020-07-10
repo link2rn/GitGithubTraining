@@ -1,0 +1,15 @@
+Namaste! I am Santosh Tamang student of BSC.CSIT.
+
+First of all I would like to thank both Genese Cloud Academy & Girls In Tech for bringing out important classes for both IT & Non-IT Students in the pandemic situation for utilising our precious time.
+
+The three days Git & GitHub fundamental training was really useful especially for the IT students like us. Talking about the three days training, though I was a bit familiar with git and github but I was unknown about feature like fork & how git & github is use in the big teams project.
+
+So, personally I would like to thank our trainer Mr.Milan Thapa (Sr.Regional Officer of GCA) for sharing the knowledge in git & github.
+
+Feedback: I would like to suggest to bring the more courses on programming languages. It might sound different but as I am learning Laravel Framework so, personally I would like to request to conduct the intermediate level class for Laravel Framework.
+
+Thank You!
+
+
+
+

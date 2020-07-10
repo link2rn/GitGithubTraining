@@ -1,0 +1,13 @@
+Hello my name is Sophiya Maharjan.
+Address = Guitole-08,Lalitpur.
+E-mail=maharjans267@gmail.com/sophiya6565@gmail.com
+
+It was a great experience taking this hard skill training provided by GCA and GirlsIn Tech.
+I really enjoyed the 3days training.
+Before I have heard about git and github but I didn't knew how to use it.
+So this training taught me some bash scripts like mkdir,cd,rm,nano,pull,push,branch,etc.
+Our trainer Milan Thapa Dai was so friendly while teaching us.He taught us in such an easy and understandable way.
+I really enjoyed playing the game at the last of our session which also helped us to know how much we have learned from this training.
+This training is going to help me alot in my coming future.
+So atlast I would like to say I am very grateful for your wonderful contribution towards us.
+ 
