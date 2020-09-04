@@ -1,0 +1,4 @@
+Name : Niruta Dhimal
+Email: sooyashrestha@gmail.com
+
+Hello everyone my name is Niruta Dhimal. I have taken the Git and Github training conducted by Mr Milan Thapa. I didn't know anything about Git and Github. After taking this training I am able to use git and github and I know its essential. We learnt how to create repository, initilize git on working directory, stagging our files and finally commiting it. We also learnt how to pull request ,clone repository in your local and fork repository. In additiion to this we also learnt little bit of bash script. The learning experience was great. The instructor was polite and explained properly.
