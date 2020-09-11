@@ -1,0 +1,11 @@
+Hi, This is Angel Shrestha.
+I did this GitGithub Training from GCA platform.
+What I learnt from this training:
+-I had previously used Github so as to keep my project safe. But I didn't know that Git and Github were different.
+-The first thing that I learnt is Git and Github are different and the git as version control system.
+-I learnt Github is not needed to keep my file safe, I can only use git to track my logs and other different repository for remote work
+-As a programmer, this training has surely build up my confidence.
+-Thank you for the program and availability of all these resources for learners like me.
+-A huge gratitude to Milan Thapa sir and everyone who contributed.
+-Thank you so much.
+
