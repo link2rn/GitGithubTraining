@@ -1,0 +1,11 @@
+# This is Namrata Bhandari.
+
+# To grateful for this amazing resources from the sessions of GCA.
+
+# Thank you Milan Dai.
+
+# As a beginner to Git i learned alot about it including creating repos, adding files,commit,push,pull,clone and fork.
+
+ 
+ Regards,
+ Namrata Bhandari  
