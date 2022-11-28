@@ -1,4 +1,4 @@
 Hello
 My name is Roniya Rai. I am an IT student but I have never got time to learn about git and github. During this pandemic I would like to thank GCA for conducting this kind of program. I would like to thank Milan Sir for sharing your knowledge and presenting it in simple and convenient way.
 At the end of this session I am able to understand what git and github are and difference between them, git bash command line etc. And I am looking forward to attend more session like this in future.
-Thank You
+Thank You.Thank's Roniya Rai this my first training for git PR.
